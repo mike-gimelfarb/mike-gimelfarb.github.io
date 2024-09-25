@@ -1,7 +1,17 @@
 github_users:
   - mike-gimelfarb
-  - pyrddlgym-project
 
 repo_description_lines_max: 2
 
 github_repos:
+  - pyrddlgym-project/pyRDDLGym	
+  - pyrddlgym-project/rddlrepository    
+  - pyrddlgym-project/pyRDDLGym-JAX     
+  - pyrddlgym-project/pyRDDLGym-gurobi
+  - pyrddlgym-project/pyRDDLGym-rl  
+  - mike-gimelfarb/cascade-correlation-neural-networks
+  - mike-gimelfarb/deep-successor-features-for-transfer
+  - mike-gimelfarb/bayesian-reward-shaping
+  - mike-gimelfarb/cocoa
+  - mike-gimelfarb/numerical-integration 
+    
