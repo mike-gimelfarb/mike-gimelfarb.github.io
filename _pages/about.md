@@ -34,4 +34,4 @@ and the development of the Python planning toolkit [pyRDDLGym](https://github.co
 I completed my PhD in Industrial Engineering at the University of Toronto advised by Scott Sanner
 and [Chi-Guhn Lee](https://cglee.mie.utoronto.ca/) in 2022, and my master's degree in the same department under supervision of Michael Jong Kim in 2017. I received my Bachelor's degree in Business Administration (BBA) from the Schulich School of Business.
 
-In my spare time, I enjoy reading about cognitive science, photography, biking and playing classical piano.
+I enjoy photography, outdoor sports, and play classical piano.
