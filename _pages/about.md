@@ -32,6 +32,6 @@ In 2023, I was a researcher in the [D3M Lab](https://d3m.mie.utoronto.ca/) led b
 and the development of the Python planning toolkit [pyRDDLGym](https://github.com/pyrddlgym-project) 
 (which has now been included in scikit-decide!). In 2022, I interned at Google DeepMind, UK. 
 I completed my PhD in Industrial Engineering at the University of Toronto advised by Scott Sanner
-and [Chi-Guhn Lee](https://cglee.mie.utoronto.ca/) in 2022, and my master's degree in the same department under supervision of [Michael Jong Kim](https://www.sauder.ubc.ca/people/michael-jong-kim/) in 2017. I received my Bachelor's degree in Business Administration (BBA) from the Schulich School of Business.
+and [Chi-Guhn Lee](https://cglee.mie.utoronto.ca/) in 2022, and my master's degree in the same department under supervision of Michael Jong Kim in 2017. I received my Bachelor's degree in Business Administration (BBA) from the Schulich School of Business.
 
 In my spare time, I enjoy reading about cognitive science, photography, biking and playing classical piano.
