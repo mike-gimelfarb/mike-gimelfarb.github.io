@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://mike-gimelfarb.github.io/sitemap.xml
+Sitemap: https://mike-gimelfarb.github.io//sitemap.xml
