@@ -25,17 +25,6 @@ One of its core benefits is **object-oriented relational (template) specificatio
     </div>
 </div>
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-2 mt-3 mt-md-0">
-{% include figure.liquid loading="eager" path="assets/img/pyrddlgym/reservoir1.gif" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-{% include figure.liquid loading="eager" path="assets/img/pyrddlgym/reservoir2.gif" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
-{% include figure.liquid loading="eager" path="assets/img/pyrddlgym/reservoir3.gif" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
 
 The purpose of pyRDDLGym is to provide **automatic translation of RDDL planning domain description files to standard OpenAI gym environments**. This means you inherit the benefits of a structured planning description within your existing reinforcement learning or planning framework based on OpenAI gym. It also provides customizable [visualization](https://github.com/ataitler/pyRDDLGym?tab=readme-ov-file#creating-your-own-visualizer) and [recording](https://github.com/ataitler/pyRDDLGym?tab=readme-ov-file#recording-movies) tools to facilitate domain debugging and plan interpretation {% cite taitler2023pyrddlgym %}. 
 
