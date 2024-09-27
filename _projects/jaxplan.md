@@ -73,10 +73,4 @@ controller.evaluate(env, episodes=1, verbose=True, render=True)
 ```
 
 The JAX planner is highly configurable and scalable, and is capable of optimizing problems efficiently
-with dozens or even hundreds of observation or action variables:
-
-<div class="row">
-    <div class="col-sm mt-1 mt-md-0">
-{% include figure.liquid loading="eager" path="assets/img/jaxplan/quadcopter.gif" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+with dozens or even hundreds of observation or action variables.
