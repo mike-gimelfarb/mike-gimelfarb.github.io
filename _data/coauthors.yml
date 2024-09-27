@@ -9,3 +9,11 @@
 "taitler":
   - firstname: ["Ayal", "A."]
     url: https://sites.google.com/view/ataitler/home
+
+"barreto":
+  - firstname: ["André", "A."]
+    url: https://sites.google.com/view/andrebarreto
+
+"jeong":
+  - firstname: ["Jihwan", "J."]
+    url: https://jihwan-jeong.netlify.app/
