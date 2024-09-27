@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: AI Researcher
+subtitle: AI Researcher, Department of Computer Science, University of Toronto
 
 profile:
   align: right
@@ -27,7 +27,7 @@ to achieve a specific goal.** My current research tackles the following question
 
 #### Biography
 
-I am currently working as a postdoctoral AI researcher in the [RVL Lab](https://rvl.cs.toronto.edu/) led by [Florian Shkurti](https://www.cs.toronto.edu/~florian/), working on offline RL.
+I am currently working as a postdoc AI researcher in the [RVL Lab](https://rvl.cs.toronto.edu/) led by [Florian Shkurti](https://www.cs.toronto.edu/~florian/) at the University of Toronto, working on offline RL.
 In 2023, I was a researcher in the [D3M Lab](https://d3m.mie.utoronto.ca/) led by [Scott Sanner](https://www.mie.utoronto.ca/faculty_staff/sanner/), where I worked on automated planning
 and the development of the Python planning toolkit [pyRDDLGym](https://github.com/pyrddlgym-project) 
 (which has now been included in scikit-decide!). In 2022, I interned at Google DeepMind, UK. 
