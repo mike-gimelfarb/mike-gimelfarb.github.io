@@ -6,7 +6,7 @@ title: Michael Gimelfarb - Personal Website # the website title (if blank, full 
 first_name: Michael
 middle_name: 
 last_name: Gimelfarb
-email: mgimelfarb@yahoo.ca
+email: mike.gimelfarb@mail.utoronto.ca
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   This is the website of Michael Gimelfarb. I am an AI researcher specializing in reinforcement learning, robotics and planning.
   I am currently working as a postdoc in the Department of Computer Science, University of Toronto.
