@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-02-19
+date: 2024-02-12
 inline: true
 related_posts: false
 ---
 
-Version 2.0 of [pyRDDLGym](https://github.com/pyrddlgym-project) has been published.
+Our paper on [JaxPlan and GurobiPlan](https://ojs.aaai.org/index.php/ICAPS/article/view/31480/) was published in ICAPS.
