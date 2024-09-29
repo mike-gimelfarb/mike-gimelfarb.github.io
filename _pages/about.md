@@ -35,4 +35,4 @@ I completed my PhD in Industrial Engineering at the University of Toronto advise
 and [Chi-Guhn Lee](https://cglee.mie.utoronto.ca/) in 2022, and my master's degree in the same department under supervision of Michael Jong Kim in 2017. 
 I received my Bachelor's degree in Business Administration (BBA) from the Schulich School of Business.
 
-I enjoy photography, outdoor sports, and play classical piano.
+I enjoy [photography](https://commons.wikimedia.org/wiki/User:Mgimelfarb), outdoor sports, and play classical piano.
