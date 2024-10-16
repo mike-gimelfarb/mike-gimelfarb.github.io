@@ -3,6 +3,7 @@ layout: page
 title: pyRDDLGym
 description: A toolkit for auto-generation of OpenAI Gym environments from RDDL description files.
 img: assets/img/pyrddlgym.png
+github: https://github.com/pyrddlgym-project/pyRDDLGym
 importance: 1
 category: software
 related_publications: true

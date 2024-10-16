@@ -3,6 +3,7 @@ layout: page
 title: Cascade-Correlation
 description: A Python library for training the cascade-correlation neural network.
 img: assets/img/ccnn.png
+github: https://github.com/mike-gimelfarb/cascade-correlation-neural-networks
 importance: 3
 category: software
 tags: formatting math
