@@ -1,10 +1,10 @@
 ---
 layout: page
-title: bboptpy: Black-Box Function Optimization in Python and C++
+title: Black-Box Function Optimization
 description: Powerful and scalable black-box optimization algorithms for Python and C++.
 img: assets/img/bboptpy.png
 github: https://github.com/mike-gimelfarb/bboptpy
-importance: 4
+importance: 3
 category: software
 tags: formatting math
 related_publications: false
@@ -16,7 +16,7 @@ related_publications: false
 recent algorithms for the optimization of black-box functions (i.e. functions that do not
 provide structure to help solve them, such as derivatives). Almost all algorithms support
 box constraints, but a limited subset also support nonlinear arbitrary black-box constraints.
-The [list of algorithms implemented](https://github.com/mike-gimelfarb/bboptpy?tab=readme-ov-file#algorithms-supported) is constantly growing.
+The [list of algorithms implemented](https://github.com/mike-gimelfarb/bboptpy?tab=readme-ov-file#algorithms-supported/) is constantly growing.
 
 The object-oriented nature and simple, unified API makes it easy to run the algorithms as benchmarks 
 for novel research investigations, as well as to build upon or extend existing algorithms. bboptpy
