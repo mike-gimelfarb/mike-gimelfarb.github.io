@@ -7,6 +7,24 @@ github: https://github.com/pyrddlgym-project/pyRDDLGym
 importance: 1
 category: software
 related_publications: true
+ldjson: |
+  {
+    "@context": "http://schema.org",
+    "@type": "SoftwareSourceCode",
+    "name": "pyRDDLGym",
+    "keywords": "visualization,benchmarking,simulator,reinforcement-learning,planner,simulation,visualisation,planning,visualizer,gym,benchmark-framework,gymnasium,evaluation-framework,benchmarking-framework,planning-domain-definition-language,model-based planners,gym-environments,rddl,rddl-domains",
+    "url": "http://mike-gimelfarb.github.io/projects/pyrddlgym/",
+    "codeRepository": "https://github.com/pyrddlgym-project/pyRDDLGym/",
+    "programmingLanguage": "Python",
+    "datePublished": "2022-07-10",
+    "dateCreated": "2022-07-10",
+    "creator": {
+        "@type": "Person",
+        "name": "Michael Gimelfarb",
+        "url": "http://mike-gimelfarb.github.io"
+    },
+    "description": "<p>pyRDDLGym is a toolkit for auto-generation of OpenAI Gym environments from RDDL description files.</p>"
+  }
 ---
 
 ## Purpose

@@ -8,6 +8,24 @@ importance: 3
 category: software
 tags: formatting math
 related_publications: false
+ldjson: |
+  {
+    "@context": "http://schema.org",
+    "@type": "SoftwareSourceCode",
+    "name": "bboptpy",
+    "keywords": "python,c-plus-plus,constrained-optimization,benchmarks,evolutionary-algorithms,optimization-methods,optimization-tools,nonlinear-optimization,optimization-algorithms,optimization-library,unconstrained-optimization,blackbox-optimization,metaheuristic-optimisation",
+    "url": "http://mike-gimelfarb.github.io/projects/bboptpy/",
+    "codeRepository": "https://github.com/mike-gimelfarb/bboptpy/",
+    "programmingLanguage": "Python",
+    "datePublished": "2021-08-03",
+    "dateCreated": "2021-08-03",
+    "creator": {
+        "@type": "Person",
+        "name": "Michael Gimelfarb",
+        "url": "http://mike-gimelfarb.github.io"
+    },
+    "description": "<p>bboptpy provides powerful and scalable black-box optimization algorithms for Python and C++.</p>"
+  }
 ---
 
 ## Purpose

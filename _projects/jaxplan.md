@@ -8,6 +8,24 @@ importance: 2
 category: software
 tags: formatting math
 related_publications: true
+ldjson: |
+  {
+    "@context": "http://schema.org",
+    "@type": "SoftwareSourceCode",
+    "name": "pyRDDLGym-jax",
+    "keywords": "control,controller,automatic-differentiation,planning,sgd,model-based-control,nonlinear-dynamics,backpropagation,nonlinear-optimization,stochastic-gradient-descent,planning-domain-definition-language,planning-algorithms,nonlinear-control,sgd-optimizer,jax,rddl,rddl-domains,differentiable-simulations,gradient-based-optimisation",
+    "url": "http://mike-gimelfarb.github.io/projects/jaxplan/",
+    "codeRepository": "https://github.com/pyrddlgym-project/pyRDDLGym-jax/",
+    "programmingLanguage": "Python",
+    "datePublished": "2024-02-05",
+    "dateCreated": "2024-02-05",
+    "creator": {
+        "@type": "Person",
+        "name": "Michael Gimelfarb",
+        "url": "http://mike-gimelfarb.github.io"
+    },
+    "description": "<p>pyRDDLGym-jax provides JAX compilation of RDDL description files, and a differentiable planner in JAX.</p>"
+  }
 ---
 
 ## Purpose

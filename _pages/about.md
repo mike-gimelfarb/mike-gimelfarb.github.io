@@ -13,6 +13,26 @@ profile:
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+ldjson: |
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Michael Gimelfarb",
+    "url": "https://mike-gimelfarb.github.io",
+    "jobTitle": "AI Researcher",
+    "alumniOf": "University of Toronto",
+    "gender": "male",
+    "image": "http://mike-gimelfarb.github.io/assets/images/my-avatar.jpg",
+    "sameAs": [
+        "https://scholar.google.com/citations?user=1tBgyLYAAAAJ&hl=en", 
+        "https://www.linkedin.com/in/michael-gimelfarb-0ba5723b",
+        "https://www.researchgate.net/profile/Michael-Gimelfarb",  
+        "https://www.semanticscholar.org/author/Michael-Gimelfarb/52225987",      
+        "https://github.com/mike-gimelfarb",
+        "https://dblp.org/pid/231/7654.html",
+        "https://orcid.org/0000-0003-4377-2142"
+    ]
+  }
 ---
 
 #### Summary

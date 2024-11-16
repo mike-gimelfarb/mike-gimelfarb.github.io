@@ -8,6 +8,24 @@ importance: 3
 category: software
 tags: formatting math
 related_publications: false
+ldjson: |
+  {
+    "@context": "http://schema.org",
+    "@type": "SoftwareSourceCode",
+    "name": "cascade-correlation-neural-networks",
+    "keywords": "python,machine-learning,deep-neural-networks,deep-learning,neural-network,tensorflow,keras,neural-networks,deep-learning-algorithms,deep-learning-architectures,deep-learning-models,network-architectures,cascade-correlation,growing-network",
+    "url": "http://mike-gimelfarb.github.io/projects/ccnn/",
+    "codeRepository": "https://github.com/mike-gimelfarb/cascade-correlation-neural-networks/",
+    "programmingLanguage": "Python",
+    "datePublished": "2021-03-03",
+    "dateCreated": "2021-03-03",
+    "creator": {
+        "@type": "Person",
+        "name": "Michael Gimelfarb",
+        "url": "http://mike-gimelfarb.github.io"
+    },
+    "description": "<p>cascade-correlation-neural-networks is a general framework for cascade correlation architectures in Python with wrappers to keras, tensorflow and sklearn.</p>"
+  }
 ---
 
 ## Purpose

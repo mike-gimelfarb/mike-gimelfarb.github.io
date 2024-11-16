@@ -220,6 +220,11 @@
     {% assign sameaslinks = sameaslinks | split: '' %}
   {% endif %}
 
+  {% if page.ldjson %}
+    <script type="application/ld+json">
+    {{ page.ldjson }}
+    </script>
+  {% else %}
   <script type="application/ld+json">
     {
         "author":
@@ -237,5 +242,7 @@
         "name": "{{ author_name }}",
         "@context": "https://schema.org"
     }
-  </script>
+    </script>
+  {% endif %}
+  
 {% endif %}
