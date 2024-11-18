@@ -1,7 +1,7 @@
 ---
 layout: page
 title: pyRDDLGym
-description: A toolkit for auto-generation of OpenAI Gym environments from RDDL description files.
+description: The pyRDDLGym package is a Python toolkit to automatically generate OpenAI Gym environments from Relational Dynamic Influence Diagram Language (RDDL) description files. It serves as the official parser, simulator, and evaluation system for RDDL in Python, making it easier to create and work with dynamic stochastic environments in any pipeline where an OpenAI gym environment is required. pyRDDLGym includes customizable visualization and recording tools for debugging and interpreting plans, and supports a growing ecosystem of planning tools that aims to fill the niche on standardized benchmarking and baseline problems for the planning community.
 img: assets/img/pyrddlgym.png
 github: https://github.com/pyrddlgym-project/pyRDDLGym
 importance: 1
@@ -24,7 +24,7 @@ ldjson: |
         "name": "Michael Gimelfarb",
         "url": "http://mike-gimelfarb.github.io"
     },
-    "description": "<p>pyRDDLGym is a toolkit for auto-generation of OpenAI Gym environments from RDDL description files.</p>"
+    "description": "<p>The pyRDDLGym package is a Python toolkit to automatically generate OpenAI Gym environments from Relational Dynamic Influence Diagram Language (RDDL) description files. It serves as the official parser, simulator, and evaluation system for RDDL in Python, making it easier to create and work with dynamic stochastic environments in any pipeline where an OpenAI gym environment is required. pyRDDLGym includes customizable visualization and recording tools for debugging and interpreting plans, and supports a growing ecosystem of planning tools that aims to fill the niche on standardized benchmarking and baseline problems for the planning community.</p>"
   }
 ---
 

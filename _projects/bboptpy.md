@@ -1,7 +1,7 @@
 ---
 layout: page
 title: bboptpy
-description: Powerful and scalable black-box optimization algorithms for Python and C++.
+description: The bboptpy package is a powerful and scalable suite of state-of-the-art black-box and meta-heuristic optimization algorithms (algorithms for optimizing functions without derivatives) written in C++ with a user-friendly Python interface. It offers faithful reproductions of algorithms in the literature, and robust improvements and variations on well-known algorithms, such as Covariance Matrix Adaptation Evolutionary Strategy (CMA-ES), Differential Evolution, and Particle Swarm Optimization (PSO). The package provides transparent implementations with no dependencies for easy installation and extension.
 img: assets/img/bboptpy.png
 github: https://github.com/mike-gimelfarb/bboptpy
 importance: 2
@@ -24,7 +24,7 @@ ldjson: |
         "name": "Michael Gimelfarb",
         "url": "http://mike-gimelfarb.github.io"
     },
-    "description": "<p>bboptpy provides powerful and scalable black-box optimization algorithms for Python and C++.</p>"
+    "description": "<p>The bboptpy package is a powerful and scalable suite of state-of-the-art black-box and meta-heuristic optimization algorithms (algorithms for optimizing functions without derivatives) written in C++ with a user-friendly Python interface. It offers faithful reproductions of algorithms in the literature, and robust improvements and variations on well-known algorithms, such as Covariance Matrix Adaptation Evolutionary Strategy (CMA-ES), Differential Evolution, and Particle Swarm Optimization (PSO). The package provides transparent implementations with no dependencies for easy installation and extension.</p>"
   }
 ---
 

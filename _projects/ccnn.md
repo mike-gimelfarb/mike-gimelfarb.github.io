@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cascade-Correlation
-description: A Python library for training the cascade-correlation neural network.
+description: The cascade-correlation-neural-networks package provides a general framework for building and training constructive feed-forward neural networks such as the Cascade-Correlation (CCNN) architecture in Python, which dynamically adds hidden units to the network during training. The package also includes wrappers for TensorFlow, Keras, Scipy, and Scikit-learn, and supports custom topologies, training algorithms, and loss functions.
 img: assets/img/ccnn.png
 github: https://github.com/mike-gimelfarb/cascade-correlation-neural-networks
 importance: 2
@@ -24,7 +24,7 @@ ldjson: |
         "name": "Michael Gimelfarb",
         "url": "http://mike-gimelfarb.github.io"
     },
-    "description": "<p>cascade-correlation-neural-networks is a general framework for cascade correlation architectures in Python with wrappers to keras, tensorflow and sklearn.</p>"
+    "description": "<p>The cascade-correlation-neural-networks package provides a general framework for building and training constructive feed-forward neural networks such as the Cascade-Correlation (CCNN) architecture in Python, which dynamically adds hidden units to the network during training. The package also includes wrappers for TensorFlow, Keras, Scipy, and Scikit-learn, and supports custom topologies, training algorithms, and loss functions.</p>"
   }
 ---
 

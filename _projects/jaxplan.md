@@ -1,7 +1,7 @@
 ---
 layout: page
 title: pyRDDLGym-jax
-description: Automatic JAX compilation of RDDL description files, and a differentiable planner and simulator in JAX.
+description: pyRDDLGym-jax is an extension of the pyRDDLGym ecosystem, leveraging the JAX library for automatic differentiation and gradient-based planning. It translates and compiles RDDL description files into differentiable simulators. It also supports various planning methods, including deep reactive policy networks and straight-line planning, risk-aware planning, and provides tools for automatic hyper-parameter tuning.
 img: assets/img/jaxplanproj.png
 github: https://github.com/pyrddlgym-project/pyRDDLGym-jax
 importance: 1
@@ -24,7 +24,7 @@ ldjson: |
         "name": "Michael Gimelfarb",
         "url": "http://mike-gimelfarb.github.io"
     },
-    "description": "<p>pyRDDLGym-jax provides JAX compilation of RDDL description files, and a differentiable planner in JAX.</p>"
+    "description": "<p>pyRDDLGym-jax is an extension of the pyRDDLGym ecosystem, leveraging the JAX library for automatic differentiation and gradient-based planning. It translates and compiles RDDL description files into differentiable simulators. It also supports various planning methods, including deep reactive policy networks and straight-line planning, risk-aware planning, and provides tools for automatic hyper-parameter tuning.</p>"
   }
 ---
 
