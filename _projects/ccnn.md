@@ -6,7 +6,7 @@ img: assets/img/ccnn.png
 github: https://github.com/mike-gimelfarb/cascade-correlation-neural-networks
 importance: 3
 category: software
-tags: formatting math
+tags: cascade-correlation-neural-networks
 related_publications: false
 ldjson: |
   {

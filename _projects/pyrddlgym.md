@@ -6,6 +6,7 @@ img: assets/img/pyrddlgym.png
 github: https://github.com/pyrddlgym-project/pyRDDLGym
 importance: 1
 category: software
+tags: pyRDDLGym
 related_publications: true
 ldjson: |
   {

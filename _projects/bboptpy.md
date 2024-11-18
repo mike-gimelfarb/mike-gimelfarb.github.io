@@ -6,7 +6,7 @@ img: assets/img/bboptpy.png
 github: https://github.com/mike-gimelfarb/bboptpy
 importance: 3
 category: software
-tags: formatting math
+tags: bboptpy
 related_publications: false
 ldjson: |
   {

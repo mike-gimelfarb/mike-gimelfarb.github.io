@@ -6,7 +6,7 @@ img: assets/img/jaxplanproj.png
 github: https://github.com/pyrddlgym-project/pyRDDLGym-jax
 importance: 2
 category: software
-tags: formatting math
+tags: pyRDDLGym-jax
 related_publications: true
 ldjson: |
   {
