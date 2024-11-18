@@ -1,10 +1,10 @@
 ---
 layout: page
-title: JAX Planner
-description: A gradient-based planner based on automatic differentation through the planning model.
+title: pyRDDLGym-jax
+description: Automatic JAX compilation of RDDL description files, and a differentiable planner and simulator in JAX.
 img: assets/img/jaxplanproj.png
 github: https://github.com/pyrddlgym-project/pyRDDLGym-jax
-importance: 2
+importance: 1
 category: software
 tags: pyRDDLGym-jax
 related_publications: true

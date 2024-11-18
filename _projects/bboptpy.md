@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Black-Box Function Optimization
+title: bboptpy
 description: Powerful and scalable black-box optimization algorithms for Python and C++.
 img: assets/img/bboptpy.png
 github: https://github.com/mike-gimelfarb/bboptpy
-importance: 3
+importance: 2
 category: software
 tags: bboptpy
 related_publications: false
