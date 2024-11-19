@@ -5,7 +5,7 @@ description: The pyRDDLGym package is a Python toolkit to automatically generate
 img: assets/img/pyrddlgym.png
 github: https://github.com/pyrddlgym-project/pyRDDLGym
 importance: 1
-category: software
+category: planning
 tags: pyRDDLGym
 related_publications: true
 ldjson: |
