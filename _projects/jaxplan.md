@@ -1,12 +1,12 @@
 ---
 layout: page
-title: pyRDDLGym-jax
-description: pyRDDLGym-jax is an extension of the pyRDDLGym ecosystem, leveraging the JAX library for automatic differentiation and gradient-based planning. It translates and compiles RDDL description files into differentiable simulators. It also supports various planning methods, including deep reactive policy networks and straight-line planning, risk-aware planning, and provides tools for automatic hyper-parameter tuning.
+title: JaxPlan
+description: pyRDDLGym-jax (or JaxPlan as it is referred to in the literature) is an extension of the pyRDDLGym eco-system, leveraging the JAX library to automatically build differentiable simulators for any RDDL problem and do gradient-based planning. It also supports various planning methods, including deep reactive policy networks and straight-line planning, risk-aware planning, and provides tools for automatic hyper-parameter tuning.
 img: assets/img/jaxplanproj.png
 github: https://github.com/pyrddlgym-project/pyRDDLGym-jax
 importance: 2
 category: planning
-tags: pyRDDLGym-jax
+tags: JaxPlan
 related_publications: true
 ldjson: |
   {
@@ -24,7 +24,7 @@ ldjson: |
         "name": "Michael Gimelfarb",
         "url": "http://mike-gimelfarb.github.io"
     },
-    "description": "<p>pyRDDLGym-jax is an extension of the pyRDDLGym ecosystem, leveraging the JAX library for automatic differentiation and gradient-based planning. It translates and compiles RDDL description files into differentiable simulators. It also supports various planning methods, including deep reactive policy networks and straight-line planning, risk-aware planning, and provides tools for automatic hyper-parameter tuning.</p>"
+    "description": "<p>pyRDDLGym-jax, or JaxPlan as it is referred to in the literature, is an extension of the pyRDDLGym eco-system, leveraging the JAX library to automatically build differentiable simulators for any RDDL problem and do gradient-based planning. It also supports various planning methods, including deep reactive policy networks and straight-line planning, risk-aware planning, and provides tools for automatic hyper-parameter tuning.</p>"
   }
 ---
 
@@ -61,17 +61,17 @@ for some learning rate $$\eta > 0$$. The **closed-loop planning problem** can be
 similarly defined by allowing actions to be a trainable function of the current state, i.e.
 $$a_t = \pi(s_t, \theta)$$. 
 
-The **[pyRDDLGym-jax planner](https://github.com/pyrddlgym-project/pyRDDLGym-jax) leverages [JAX](https://github.com/jax-ml/jax) auto-differentiation to automatically compute the above gradients
+**[JaxPlan](https://github.com/pyrddlgym-project/pyRDDLGym-jax) leverages [JAX](https://github.com/jax-ml/jax) auto-differentiation to automatically compute the above gradients
 for any problem described in the RDDL Language**, and state-of-the-art gradient descent algorithms such as
 ADAM to automatically compute the optimal sequence of actions for any problem. The 
 planner is versatile and performs model relaxations when dealing with discrete domains, 
 where the exact gradient would otherwise be impossible to compute {% cite gimelfarb2024jaxplan %}.
 
-pyRDDLGym-JAX was part of the official evaluation system in the 2023 International Planning Competition {% cite taitler20242023 %}
+JaxPlan was part of the official evaluation system in the 2023 International Planning Competition {% cite taitler20242023 %}
 
 ## Examples
 
-The JAX planner can be easily set up on any Python environment that has the pyRDDLGym and JAX frameworks preinstalled. Simply create a config file to store hyper-parameters for the planner as described 
+JaxPlan can be easily set up on any Python environment that has the pyRDDLGym and JAX frameworks preinstalled. Simply create a config file to store hyper-parameters for the planner as described 
 [here](https://pyrddlgym.readthedocs.io/en/latest/jax.html#configuring-pyrddlgym-jax), then run the following code:
 
 ```python
@@ -91,5 +91,5 @@ controller = JaxOfflineController(planner, **train_args)
 controller.evaluate(env, episodes=1, verbose=True, render=True)
 ```
 
-The JAX planner is highly configurable and scalable, and is capable of optimizing problems efficiently
+JaxPlan is highly configurable and scalable, and is capable of optimizing problems efficiently
 with dozens or even hundreds of observation or action variables.
