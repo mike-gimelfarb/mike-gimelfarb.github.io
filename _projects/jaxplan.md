@@ -67,6 +67,26 @@ ADAM to automatically compute the optimal sequence of actions for any problem. T
 planner is versatile and performs model relaxations when dealing with discrete domains, 
 where the exact gradient would otherwise be impossible to compute {% cite gimelfarb2024jaxplan %}.
 
+Below are some successful (and cool!) examples where JaxPlan was able to solve the problem, or make substantial progress where some other planners failed:
+
+<div class="row">
+    <div class="col-sm mt-2 mt-md-0">
+{% include figure.liquid loading="eager" path="assets/img/jaxplan/intruders.gif" title="Intruders domain where the goal is to stay within the observable radius of intruders entering a danger zone." class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-2 mt-md-0">
+{% include figure.liquid loading="eager" path="assets/img/jaxplan/pong.gif" title="The classic game of pong, which is hard for differentiable planning due to discrete contact boundaries." class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-2 mt-md-0">
+{% include figure.liquid loading="eager" path="assets/img/jaxplan/quadcopter.gif" title="Simultaneous control of quad-rotor drones with realistic physics." class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-2 mt-md-0">
+{% include figure.liquid loading="eager" path="assets/img/jaxplan/reacher.gif" title="A harder version of Mujoco's reacher domain where the goal is to keep the tip of a robotic arm close to a target location." class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-2 mt-md-0">
+{% include figure.liquid loading="eager" path="assets/img/jaxplan/reservoir.gif" title="The reservoir domain with 10 reservoirs whose water level must be jointly controlled to prevent flood and drought." class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 JaxPlan was part of the official evaluation system in the 2023 International Planning Competition {% cite taitler20242023 %}
 
 ## Examples
