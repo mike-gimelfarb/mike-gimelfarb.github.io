@@ -6,7 +6,7 @@ subtitle: AI Researcher, Department of Computer Science, University of Toronto
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
 
@@ -22,7 +22,7 @@ ldjson: |
     "jobTitle": "AI Researcher",
     "alumniOf": "University of Toronto",
     "gender": "male",
-    "image": "http://mike-gimelfarb.github.io/assets/images/my-avatar.jpg",
+    "image": "http://mike-gimelfarb.github.io/assets/images/my-avatar.png",
     "sameAs": [
         "https://scholar.google.com/citations?user=1tBgyLYAAAAJ&hl=en", 
         "https://www.linkedin.com/in/michael-gimelfarb-0ba5723b",
