@@ -9,9 +9,10 @@ github_repos:
   - pyrddlgym-project/pyRDDLGym-JAX     
   - pyrddlgym-project/pyRDDLGym-gurobi
   - pyrddlgym-project/pyRDDLGym-rl  
+  - pyrddlgym-project/pyRDDLGym-prost  
   - mike-gimelfarb/cascade-correlation-neural-networks
   - mike-gimelfarb/deep-successor-features-for-transfer
   - mike-gimelfarb/bayesian-reward-shaping
-  - mike-gimelfarb/cocoa
+  - mike-gimelfarb/bboptpy
   - mike-gimelfarb/numerical-integration 
     
