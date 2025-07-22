@@ -52,8 +52,10 @@ I am currently working as a postdoc AI researcher in the [RVL Lab](https://rvl.c
 In 2023, I was a researcher in the [D3M Lab](https://d3m.mie.utoronto.ca/) led by [Scott Sanner](https://www.mie.utoronto.ca/faculty_staff/sanner/), where I worked on automated planning
 and the development of the Python planning toolkit [pyRDDLGym](https://github.com/pyrddlgym-project) 
 (which has now been included in scikit-decide!). In 2022, I interned at Google DeepMind, UK. 
-I completed my PhD in Industrial Engineering at the University of Toronto advised by Scott Sanner
-and [Chi-Guhn Lee](https://cglee.mie.utoronto.ca/) in 2022, and my master's degree in the same department under supervision of Michael Jong Kim in 2017. 
+I completed my [PhD](https://utoronto.scholaris.ca/items/0d110034-82cc-4e39-8b90-ac1dcae2bd23) in Industrial Engineering at the University of Toronto advised by Scott Sanner
+and [Chi-Guhn Lee](https://cglee.mie.utoronto.ca/) in 2022, and my [master's degree](https://utoronto.scholaris.ca/items/6a77814b-7f78-4ce2-b8d1-2b81e432a048) in the same department under supervision of Michael Jong Kim in 2017. 
 I received my Bachelor's degree in Business Administration (BBA) from the Schulich School of Business.
 
 I enjoy [photography](https://commons.wikimedia.org/wiki/User:Mgimelfarb), outdoor sports, and play classical piano.
+
+Alternate site [here](https://sites.google.com/view/michael-gimelfarb).
